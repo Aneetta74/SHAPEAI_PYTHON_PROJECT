@@ -1,0 +1,2 @@
+# SHAPEAI_PYTHON_PROJECT
+Project on Python
